@@ -54,6 +54,8 @@ from random import *
 # print(int(random()*100)%42 + 1)
 # print(int(random()*100)%42 + 1)
 
+# 현주는 최고야
+
 # print(int(random() * 45) + 1)
 # print(int(random() * 45) + 1)
 # print(int(random() * 45) + 1)
